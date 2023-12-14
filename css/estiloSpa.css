@@ -142,7 +142,7 @@ header section ul li{display: inline-block;}
 }
 /*transformaciones*/
 #tienda article input:hover{
-    color: #384001;
+    background-color: #384001;
 }
 #tienda article h3{
     font-weight: 600; /* SemiBold */
@@ -232,7 +232,7 @@ header section ul li{display: inline-block;}
 }
 /*transformaciones*/
 .btncondiciones:hover{
-    color: #384001;
+    background-color: #384001;
 }
 /*--------------------------*/
 /*footer*/
